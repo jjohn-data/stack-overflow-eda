@@ -67,9 +67,16 @@ ensuring that valid data is retained wherever possible.
 
 ## 📈 Visuals
 
+### Top Programming Languages (2023)
 ![Top Languages](images/top_languages_2023.png)
+
+### Programming Languages by Age Group
 ![Languages by Age](images/languages_by_age.png)
+
+### Remote Work Distribution
 ![Remote Work](images/remote_work_distribution.png)
+
+### Roles Distribution
 ![Roles](images/roles_distribution.png)
 
 ---
