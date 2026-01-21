@@ -75,7 +75,7 @@ ensuring that valid data is retained wherever possible.
 
 ## 📂 Project Structure
 
-
+```
 stack-overflow-eda/
 ├── data/
 │   ├── survey_results_public.csv
@@ -90,7 +90,7 @@ stack-overflow-eda/
 ├── notebooks/
 │   └── 01_exploratory_data_analysis.ipynb
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run the Project
