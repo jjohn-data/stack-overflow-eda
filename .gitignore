@@ -1,0 +1,10 @@
+# data files (optional)
+data/survey_results_public.csv
+
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
