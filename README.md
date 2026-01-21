@@ -65,6 +65,15 @@ ensuring that valid data is retained wherever possible.
 
 ---
 
+## 📈 Visuals
+
+![Top Languages](images/top_languages_2023.png)
+![Languages by Age](images/languages_by_age.png)
+![Remote Work](images/remote_work_distribution.png)
+![Roles](images/roles_distribution.png)
+
+---
+
 ## ⚠️ Limitations
 
 - The data is self-reported and may be subject to response bias.
@@ -75,7 +84,7 @@ ensuring that valid data is retained wherever possible.
 
 ## 📂 Project Structure
 
-```
+```text
 stack-overflow-eda/
 ├── data/
 │   ├── survey_results_public.csv
