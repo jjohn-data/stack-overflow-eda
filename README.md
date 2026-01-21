@@ -75,7 +75,7 @@ ensuring that valid data is retained wherever possible.
 
 ## 📂 Project Structure
 
-```text
+
 stack-overflow-eda/
 ├── data/
 │   ├── survey_results_public.csv
