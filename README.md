@@ -111,10 +111,10 @@ stack-overflow-eda/
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository
-2. Install required dependencies
-3. Open the notebook `01_exploratory_data_analysis.ipynb`
-4. Run all cells from top to bottom
+1. Clone the repository.
+2. Install required dependencies.
+3. Open the notebook `01_exploratory_data_analysis.ipynb`.
+4. Run all cells from top to bottom.
 
 ---
 
